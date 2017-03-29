@@ -30,7 +30,6 @@ rules([[palavra-chave, importância da palavra-chave], [
     
 Através da palavra-chave e de sua importância, o programa pode obter uma reação ao usuário quando ele lhe enviar uma resposta.
 
-#############################################################################################################
 
 ### 2a parte do código em que irei analizar: ###
 
@@ -42,7 +41,7 @@ last_member(End,List) :- append(_,[End],List).
 
 Recebe a posição final e a lista. Retorna o último elemento da lista.
 
-#############################################################################################################
+##########################################################################
 
 Em ambos os trechos de código, podemos perceber, através do que é informado no chat pelo usuário, o programa encontra uma palavra-chave,
 dado com certo grau de importância, e obtém uma resposta adequada ao caso. Ele fornece mais de uma resposta para cada informação recebida.
