@@ -28,6 +28,10 @@ repete5(E, L) :- L = [E,E,E,E,E].
 sumQuads([],0).
 sumQuads(L, S) :- L=[H|T], K is H*H, sumQuads(T, S1), S is K+S1.
 
+% 10o exercício				
+repete(1, E, [E]).						
+repete(N,E,L) :- L = [H|T], H = E, X is N-1, repete(X, E, T).		
+
 % 11o exercício
 mapop([], []).
 mapop(L1,L2) :- L1 = [H|T], K is 2*H+1, mapop(T,X), L2 = [K|X].
