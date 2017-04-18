@@ -1,8 +1,12 @@
 # Paradigmas De Programação
-<strong>Ciência da Computação 2017/1</strong>
+<p>
+<strong>Ciência da Computação 2017/1</strong> <br>
+<strong>Aluno:</strong> João Davi Martins Nunes<br>
+</p>
 
-**Envios:**
-[Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras),
-[Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1),
-[Trabalho 2](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t2).
 
+**Envios:** <br>
+- [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
+- [Trabalho 2](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t2) <br>
+- [Trabalho 3](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t3) <br>
+- [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
