@@ -5,12 +5,28 @@
 </p>
 
 
-**Envios:** <br>
-==============
-- [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
-- [Trabalho 2](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t2) <br>
-- [Trabalho 3](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t3) <br>
-- [Trabalho 4](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t4) <br>
-- [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
+
+## [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
+- [Programação funcional em Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte1.py) <br>
+- [Funções anônimas](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte2.py) <br>
 
 
+## [Trabalho 2](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t2) <br>
+- [List comprehension](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t2/t2parte1.py) <br>
+- [SVG](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t2/t2parte2.py) <br>
+
+
+## [Trabalho 3](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t3) <br>
+- [Trace de Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t3/t3parte1.md) <br>
+- [Exercícios de Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t3/t3parte2.pl) <br>
+- [Exercício da OBI](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t3/t3parte3.pl) <br>
+
+
+## [Trabalho 4](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t4) <br>
+- [Classe Point](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/point.cpp) <br>
+- [Classe Circle](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/circle.cpp) <br>
+
+
+## [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
+- [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
+- [Sites importantes para aprender Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Sites%20Importantes%20Python.md) <br>
