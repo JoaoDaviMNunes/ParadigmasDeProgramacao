@@ -27,6 +27,9 @@
 - [Classe Circle](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/circle.cpp) <br>
 
 
+## [Trabalho 5](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t5) <br>
+
+
 ## [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
 - [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
 - [Sites importantes para aprender Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Sites%20Importantes%20Python.md) <br>
