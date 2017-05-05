@@ -1,9 +1,13 @@
 # Paradigmas De Programação
-<p>
+
 <strong>Ciência da Computação 2017/1</strong> <br>
 <strong>Aluno:</strong> João Davi Martins Nunes<br>
-</p>
 
+Primeiro semestre de 2017 <br>
+Professora: [Andrea Schwertner Charão](https://github.com/AndreaInfUFSM/elc117-2017a) <br>
+Carga horária: 60h <br>
+Horários: segundas e quartas, das 14:30 às 16:30 <br>
+Sala: 368, CT - Práticas: 334, CT <br>
 
 
 ## [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
