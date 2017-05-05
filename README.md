@@ -28,6 +28,7 @@
 
 
 ## [Trabalho 5](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t5) <br>
+- [Main](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t5/main.cpp) <br>
 
 
 ## [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
