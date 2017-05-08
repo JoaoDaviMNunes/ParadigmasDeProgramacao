@@ -6,11 +6,21 @@
 - Dano tomado por torre(0 - 5000) (Abreviatura: DTT) <br>
 </p>
 
+
 ## ORGANIZAÇÃO DO ARQUIVO
 <p>
 Nome|Pontuação|Atividade <br>
 Nome|DIIAB|DIIB|DTAB|DTT <br>
 </p>
+
+
+## RESULTADO
+<p>
+> 0 : deu mais dano do que recebeu <br>
+= 0 : o total de dano que deu também recebeu <br>
+< 0 : recebeu mais dano do que deu <br>
+</p>
+
 
 ## PONTUAÇÕES
 <p>
@@ -67,11 +77,4 @@ Lisane Marques|2000|DTT <br>
 Marcos Landi|500|DTT <br>
 Norton Barbosa|1300|DTT <br>
 Vanessa Yasin|0|DTT <br>
-</p>
-
-## RESULTADO
-<p>
-> 0 : deu mais dano do que recebeu <br>
-= 0 : o total de dano que deu também recebeu <br>
-< 0 : recebeu mais dano do que deu <br>
 </p>
