@@ -7,6 +7,7 @@
 #include <iterator>
 #include <algorithm>
 
+//pontuacao por atividade individual
 class Atividade{
     private:
         std::string name, atividade;
@@ -43,7 +44,7 @@ class Atividade{
 
 };
 
-//pontuacao em cada atividade
+//pontuacao para o grupo de pontos em cada atividade
 class Pontuacao{
     private:
         int diiab, diib, dtab, dtt;
