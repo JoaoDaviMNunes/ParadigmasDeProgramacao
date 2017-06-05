@@ -1,0 +1,44 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window tela {
+      label Tela open
+      protected xywh {524 137 700 800} type Single box BORDER_BOX size_range {700 700 800 800} visible
+    } {
+      Fl_Button reset {
+        label Reset
+        xywh {525 400 120 50} labelfont 8 labelsize 26
+      }
+      Fl_Box imagem {
+        image {logo.png} xywh {320 200 50 50}
+      }
+      Fl_Input participantes {
+        label Participantes
+        xywh {220 400 300 50} labelfont 8 labelsize 26 textfont 8 textsize 26
+      }
+      Fl_Button sortear {
+        label Sortear
+        xywh {40 650 610 100} labelfont 8 labelsize 40
+      }
+      Fl_Box sorteio {
+        label Sorteio
+        xywh {100 25 500 50} labelfont 9 labelsize 30
+      }
+      Fl_Box homenagem {
+        label {Feito por João Davi Martins Nunes}
+        xywh {377 770 300 17} labelfont 8
+      }
+      Fl_Box xganhador {
+        xywh {44 470 600 40} labelsize 20
+      }
+      Fl_Box saidasorteio {selected
+        xywh {45 540 600 100} box DOWN_BOX
+      }
+    }
+  }
+} 
