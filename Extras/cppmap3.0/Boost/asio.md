@@ -234,9 +234,9 @@ Desenvolvedor da classe boost::asio desde 2003, na qual a mesma foi aceita na bi
 </p>
 
 Sites:<br>
--[GitHub](https://github.com/chriskohlhoff/asio)<br>
--[LinkedIn](https://au.linkedin.com/in/chriskohlhoff)<br>
+- [GitHub](https://github.com/chriskohlhoff/asio)<br>
+- [LinkedIn](https://au.linkedin.com/in/chriskohlhoff)<br>
 
 ## Referências
--[Wikipedia](https://en.wikipedia.org/wiki/Asio_C%2B%2B_library)<br>
--[Boost.org](http://www.boost.org/doc/libs/1_64_0/doc/html/boost_asio.html)<br>
+- [Wikipedia](https://en.wikipedia.org/wiki/Asio_C%2B%2B_library)<br>
+- [Boost.org](http://www.boost.org/doc/libs/1_64_0/doc/html/boost_asio.html)<br>
