@@ -77,8 +77,8 @@ Dentre vários programadores que também estavam produzindo, Matias foi o que co
 </p>
 
 Sites:<br>
--[StackOverflow](https://stackoverflow.com/users/1191859/matias-capeletto)<br>
--[LinkedIn](https://br.linkedin.com/in/matiascapeletto)<br>
+- [StackOverflow](https://stackoverflow.com/users/1191859/matias-capeletto)<br>
+- [LinkedIn](https://br.linkedin.com/in/matiascapeletto)<br>
 
 ## Referências
--[Boost.org](http://www.boost.org/doc/libs/1_64_0/libs/bimap/doc/html/index.html)<br>
+- [Boost.org](http://www.boost.org/doc/libs/1_64_0/libs/bimap/doc/html/index.html)<br>
