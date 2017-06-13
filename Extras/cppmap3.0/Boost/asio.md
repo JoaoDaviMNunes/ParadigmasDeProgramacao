@@ -7,6 +7,8 @@ Asio é uma plataforma disponibilizada gratuitamente, de código aberto e multi-
 A classe precisa de programadores com um modelo assíncrono de E/S usando uma abordagem moderna de C++.<br>
 </p>
 
+[História da classe boost::asio](http://www.boost.org/doc/libs/1_64_0/doc/html/boost_asio/history.html)
+
 ## Código exemplo
 ```
 // server.cpp
