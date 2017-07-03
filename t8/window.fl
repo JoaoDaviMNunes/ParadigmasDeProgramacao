@@ -1,0 +1,69 @@
+# data file for the Fltk User Interface Designer (fluid)
+version 1.0303 
+header_name {.h} 
+code_name {.cxx}
+class UserInterface {open
+} {
+  Function {UserInterface()} {open
+  } {
+    Fl_Window w {
+      label {Gerador em C++ de Aplicação Web/Mobile} open
+      protected xywh {833 48 520 490} type Double hide
+    } {
+      Fl_Input titulo {
+        label {Título:}
+        protected xywh {80 10 360 24}
+      }
+      Fl_Input id {
+        label {ID:}
+        protected xywh {80 38 360 24}
+      }
+      Fl_Button btnClear {
+        label Limpar
+        protected xywh {24 100 100 24}
+      }
+      Fl_Button btnUpdate {
+        label Atualizar
+        protected xywh {147 100 100 24}
+      }
+      Fl_Button btnDelete {
+        label Deletar
+        protected xywh {270 100 100 24}
+      }
+      Fl_Button btnInsert {
+        label Inserir
+        protected xywh {394 100 100 24}
+      }
+      Fl_Box titulo_aux {
+        xywh {132 133 255 30} labelfont 1 labelsize 22
+      }
+      Fl_Browser browser {
+        protected xywh {24 169 470 277} type Hold
+      }
+      Fl_Input label {
+        label {Label:}
+        xywh {80 66 360 24}
+      }
+      Fl_Input arquivo {
+        label {Nome do arquivo:}
+        xywh {163 450 100 24}
+      }
+      Fl_Button importar {
+        label Importar
+        xywh {270 450 70 24}
+      }
+      Fl_Button exportar {
+        label Exportar
+        xywh {346 450 70 24}
+      }
+      Fl_Button gerador {
+        label HTML
+        xywh {420 450 70 24}
+      }
+      Fl_Button reset {
+        label Reset selected
+        xywh {468 3 50 24}
+      }
+    }
+  }
+} 
