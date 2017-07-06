@@ -76,3 +76,11 @@ Programações adicionais feitas como complemento de aulas práticas/trabalhos. 
         - [Bimap](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/cppmap3.0/Boost/bimap.md) <br>
         - [Gregorian](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/cppmap3.0/Boost/gregorian.md) <br>
         - [Object_pool](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/cppmap3.0/Boost/object_pool.md) <br>
+
+## Linguagens utilizadas neste repositório
+![C++](http://blog.biicode.com/wp-content/uploads/sites/2/2015/03/C-600x600-300x300.png) <br>
+![Python](http://insidehpc.com/wp-content/uploads/2017/03/python-300x300.jpg) <br>
+![Prolog](https://img.discogs.com/wAzlCF0fHXAvbs968paz33wke88=/fit-in/300x300/filters:strip_icc():format(jpeg):mode_rgb():quality(40)/discogs-images/L-840599-1486313335-7451.jpeg.jpg) <br>
+
+
+
