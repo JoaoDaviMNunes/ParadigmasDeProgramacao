@@ -46,6 +46,7 @@ Programação utilizando herança e iterador em C++, idealizada a partir dos [di
 - [Biscoitos.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t6/biscoitos.cpp) <br>
 
 ### [Trabalho 7](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t7) <br>
+Programação em C++ utilizando interface gráfica ([FLTK](http://www.fltk.org/index.php)), com o objetivo de fornecer ao usuário um sorteador de brindes para participantes de um certo evento. <br>
 - [Main.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/main.cpp) <br>
 - [Compile.sh](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/compile.sh) <br>
 - [Logo.png](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/logo.png) <br>
@@ -54,6 +55,7 @@ Programação utilizando herança e iterador em C++, idealizada a partir dos [di
 - [Window.h](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/window.h) <br>
 
 ### [Trabalho 8](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t8) <br>
+Programação utilizando interface gráfica ([FLTK](http://www.fltk.org/index.php)), sendo um gerador em C++ de Aplicação Web/Mobile em HTML5/Javascript. <br>
 - [README.md](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/README.md) <br>
 - [Main.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/main.cpp) <br>
 - [Compile.sh](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/compile.sh) <br>
@@ -64,6 +66,7 @@ Programação utilizando herança e iterador em C++, idealizada a partir dos [di
 - [Arquivos](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t8/arquivos) <br>
 
 ### [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
+Programações adicionais feitas como complemento de aulas práticas/trabalhos. <br>
 1. [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
 2. [Sites importantes para aprender Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Sites%20Importantes%20Python.md) <br>
 3. [CPP MAP 3.0](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras/cppmap3.0)<br>
