@@ -9,7 +9,7 @@ Carga horária: 60h <br>
 Horários: segundas e quartas, das 14:30 às 16:30 <br>
 Sala: 368, CT - Práticas: 334, CT <br>
 
-
+## **Trabalhos**
 ### [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
 - [Programação funcional em Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte1.py) <br>
 - [Funções anônimas](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte2.py) <br>
@@ -56,5 +56,5 @@ Sala: 368, CT - Práticas: 334, CT <br>
 - [Arquivos](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t8/arquivos) <br>
 
 ### [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
-- [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
-- [Sites importantes para aprender Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Sites%20Importantes%20Python.md) <br>
+1. [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
+2. [Sites importantes para aprender Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Sites%20Importantes%20Python.md) <br>
