@@ -11,6 +11,7 @@ Sala: 368, CT - Práticas: 334, CT <br>
 
 ## **Trabalhos**
 ### [Trabalho 1](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t1) <br>
+Exercícios com a finalidade de usar a programação funcional e funções anônimas em Python. Não podendo usar o imperativo para fazer os mesmos. <br>
 - [Programação funcional em Python](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte1.py) <br>
 - [Funções anônimas](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t1/t1parte2.py) <br>
 
