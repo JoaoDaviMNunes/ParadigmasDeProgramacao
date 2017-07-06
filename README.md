@@ -27,13 +27,33 @@ Sala: 368, CT - Práticas: 334, CT <br>
 
 
 ## [Trabalho 4](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t4) <br>
-- [Classe Point](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/point.cpp) <br>
-- [Classe Circle](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/circle.cpp) <br>
+- [Point.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/point.cpp) <br>
+- [Circle.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t4/circle.cpp) <br>
 
 
 ## [Trabalho 5](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t5) <br>
-- [Main](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t5/main.cpp) <br>
+- [Main.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t5/main.cpp) <br>
 
+## [Trabalho 6](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t6) <br>
+- [Biscoitos.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t6/biscoitos.cpp) <br>
+
+## [Trabalho 7](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t7) <br>
+- [Main.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/main.cpp) <br>
+- [Compile.sh](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/compile.sh) <br>
+- [Logo.png](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/logo.png) <br>
+- [Window.cxx](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/window.cxx) <br>
+- [Window.fl](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/window.fl) <br>
+- [Window.h](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t7/window.h) <br>
+
+## [Trabalho 8](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t8) <br>
+- [README.md](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/README.md) <br>
+- [Main.cpp](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/main.cpp) <br>
+- [Compile.sh](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/compile.sh) <br>
+- [Template.html](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/template.html) <br>
+- [Window.cxx](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/window.cxx) <br>
+- [Window.fl](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/window.fl) <br>
+- [Window.h](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/t8/window.h) <br>
+- [Arquivos](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/t8/arquivos) <br>
 
 ## [Extras](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/tree/master/Extras)<br>
 - [Elisa - Prolog](https://github.com/JoaoDaviMNunes/ParadigmasDeProgramacao/blob/master/Extras/Elisa_prolog.md) <br>
